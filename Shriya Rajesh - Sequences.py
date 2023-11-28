@@ -4,8 +4,8 @@
 # Description:
 # This program identifies the type of sequence for a list of numbers.
 
-#input sequence and store as a list
 
+#input sequence and store as a list
 series = []
 
 series.append(int (input("Enter the first term of a sequence: ")))
