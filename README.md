@@ -8,3 +8,5 @@ Optimizing Structures Project: https://docs.google.com/presentation/d/1SsKs6LhYp
 Boolean Satisfiability Project: https://docs.google.com/presentation/d/1xJqYjnwPlD2Pt7dUbGgmUSUcVXle8F5bA3zo-uBqVX8
 
 Parsing Call Graphs to use for Hardware Acceleration: https://docs.google.com/presentation/d/1qxG77UVMFy8HiE2G7FuyUpVLQD1o7XwBdiZ-8MGNz04
+
+Profiling Programs for Performance Analysis: https://docs.google.com/presentation/d/1FJ9IoNCOBt-nPhVwkwkd7VIDIM5qhboShoXnSeo4Qtk
